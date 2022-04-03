@@ -4,10 +4,13 @@
 
 Just clone the repository to use it.
 
-### Settings applied:
+    git clone https://github.com/Roman1510/react-starter.git
+
+### What is applied:
 
 - eslint (with standard style guide)
 - prettier
 - esling-plugin-prettier
 - eslint-config-prettier
-
+- bulma
+- font-awesome (version 6)
