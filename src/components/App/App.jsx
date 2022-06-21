@@ -1,4 +1,4 @@
-import '@/components/App/App.style.css'
+import '@/components/App/App.module.css'
 import Navbar from '@/components/Navbar'
 
 const App = () => {
